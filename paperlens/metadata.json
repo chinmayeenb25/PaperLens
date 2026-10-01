@@ -1,0 +1,7 @@
+{
+  "name": "PaperLens",
+  "description": "Visual research paper explorer: interactive research maps, methodology flowcharts, key findings, and conceptual timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
